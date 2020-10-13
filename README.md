@@ -1,5 +1,4 @@
-### Hi there 👋
-### My name is Owen Moreau
+**Owen Moreau**
 I am a 3rd year CS student at Wentworth Institute of Technology in Boston, MA and I am insanely passionate about product and full-stack development! Currently, I am seeking Spring 2021 and Fall 2021 Internships/Co-ops in the scope of Software Engineering!
 
 **My Experience**
