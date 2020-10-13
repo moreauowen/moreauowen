@@ -1,16 +1,25 @@
 ### Hi there 👋
+### My name is Owen Moreau
+I am a 3rd year CS student at Wentworth Institute of Technology in Boston, MA and I am insanely passionate about product and full-stack development! Currently, I am seeking Spring 2021 and Fall 2021 Internships/Co-ops in the scope of Software Engineering!
 
-<!--
-**moreauowen/moreauowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Experience**
+---
+💬 Ask me about my previous internship experience at IBM or perhaps some of my full-stack project experience.
+More info below:
 
-Here are some ideas to get you started:
+IBM, Software Developer Intern
+May 2019 - August 2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+RostersGG, Sole Developer
+May 2020 - September 2020
+
+**Contact Info**
+---
+📫 You can reach me:
+  - on [LinkedIn](http://www.linkedin.com/in/moreauowen)
+  - email (moreauowen@gmail.com)
+
+**Other Stuff About Me**
+---
+⚡ Fun fact:
+  - I designed, developed, and deployed my own full stack application because my summer 2020 intern offer was rescinded!
