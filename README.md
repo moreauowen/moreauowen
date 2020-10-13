@@ -1,8 +1,8 @@
 **Owen Moreau**
 ---
-```
+`
 I am a 3rd year CS student at Wentworth Institute of Technology in Boston, MA and I am insanely passionate about product and full-stack development! Currently, I am seeking Spring 2021 and Fall 2021 Internships/Co-ops in the scope of Software Engineering! Aside from programming, you can find me gaming, doing yoga, or designing stuff!
-```
+`
 
 **My Experience**
 ---
