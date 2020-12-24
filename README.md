@@ -1,22 +1,24 @@
-**Owen Moreau**
----
-`
-I am a 3rd year CS student at Wentworth Institute of Technology in Boston, MA and I am insanely passionate about product and full-stack development! Currently, I am seeking Spring 2021 and Fall 2021 Internships/Co-ops in the scope of Software Engineering! Aside from programming, you can find me gaming, doing yoga, or designing stuff!
-`
+# Owen Moreau
+*Passionate about building delightful user experiences*
 
-**My Experience**
----
-💬 Ask me about my previous internship experience at IBM or perhaps some of my full-stack project experience.
-  - IBM, Software Developer Intern, May 2019 - August 2019
-  - RostersGG, Sole Developer, May 2020 - September 2020
 
-**Contact Info**
+### My Experience
+---
+💬 I've been fortunate enough to have the opportunity to grow my skills in various SWE internship roles: 
+- Tesla, Software Engineer Intern, Jan 2021 - Present
+- IBM, Software Developer Intern, May 2019 - August 2019  
+
+After my internship offer for 2020 was rescinded, I used my free time do design, develop, and deploy my 
+own full stack application in order to learn React and Node.js:
+- [RostersGG](http://www.rosters.gg), Sole Developer, May 2020 - September 2020  
+
+### Contact Info
 ---
 📫 You can reach me:
-  - on [LinkedIn](http://www.linkedin.com/in/moreauowen)
-  - email (moreauowen@gmail.com)
+- on [LinkedIn](http://www.linkedin.com/in/moreauowen)
+- email @ moreauowen@gmail.com  
 
-**Other Stuff About Me**
+### Design Thinking, Experiences, and Full Stack
 ---
-⚡ Fun fact:
-  - I designed, developed, and deployed my own full stack application because my summer 2020 intern offer was rescinded!
+⚡ My first internship working in QA gave me a unique perspective with design thinking. This blossomed into my love for 
+building responsive, well-designed web and mobile applications that provide a *fantastic user experience*.
