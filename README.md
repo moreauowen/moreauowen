@@ -3,12 +3,14 @@
 
 ## My Experience
 💬 I've been fortunate enough to have the opportunity to grow my skills in various SWE internship roles: 
-- Tesla, Software Engineer Intern, Jan 2021 - Present
-- IBM, Software Developer Intern, May 2019 - August 2019<br>
+- Datadog, Software Engineer Intern, Aug 2021 - Present
+- Tesla, Software Engineer Intern, Jan 2021 - Aug 2021
+- IBM, Software Developer Intern, May 2019 - Aug 2019<br>
 
 After my internship offer for 2020 was rescinded, I used my free time do design, develop, and deploy my 
 own full stack application in order to learn React and Node.js:
 - [RostersGG](http://www.rosters.gg), Sole Developer, May 2020 - September 2020<br>
+- Unfortunately I ran out of money to keep this app hosted :(
 
 ## Contact Info
 📫 You can reach me:
