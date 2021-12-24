@@ -2,8 +2,10 @@
 *Full Stack Engineer*<br>
 
 ## My Experience
-💬 I've been fortunate enough to have the opportunity to grow my skills in various SWE internship roles: 
-- Datadog, Software Engineer Intern, Aug 2021 - Present
+💬 Currently a SWE @ Datadog 👋
+
+💬 I've been fortunate enough to have the opportunity to grow my skills in various roles as a student: 
+- Datadog, Software Engineer Intern, Aug 2021 - Dec 2021
 - Tesla, Software Engineer Intern, Jan 2021 - Aug 2021
 - IBM, Software Developer Intern, May 2019 - Aug 2019<br>
 
