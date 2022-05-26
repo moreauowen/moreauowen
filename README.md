@@ -1,5 +1,5 @@
 # Owen Moreau
-*Full Stack Engineer*<br>
+*Full Stack Engineer, fan of accessibility and scalable systems*<br>
 
 ## My Experience
 💬 Currently a SWE @ Datadog 👋
@@ -27,6 +27,6 @@ own full stack application in order to learn React and Node.js:
 - Product Design
 
 ## My favorite tech to work with:
-- React, JavaScript, TypeScript, Redux, Webpack
-- Python, Node.js, Java, PHP
-- PostgreSQL, MongoDB, Redis, MySQL
+- React > any other framework
+- Python / Flask, Node.js / Express
+- PostgreSQL, MongoDB
