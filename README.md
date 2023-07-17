@@ -1,6 +1,6 @@
 # Owen Moreau
 
-*Full Stack Engineer, fan of accessibility and scalable systems*<br>
+*Full Stack Engineer*<br>
 
 ## My Experience
 
@@ -20,4 +20,3 @@ own full stack application in order to learn React and Node.js:
 
 📫 You can reach me:
 - on [LinkedIn](http://www.linkedin.com/in/moreauowen)
-- email @ moreauowen@gmail.com
