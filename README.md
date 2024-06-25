@@ -4,7 +4,7 @@
 
 ## My Experience
 
-💬 Currently an SE1 @ Datadog (Sept 2022 - present) 👋
+💬 Currently engineering @ Datadog
 
 💬 I've been fortunate enough to have the opportunity to grow my skills in various roles as a student: 
 - 920Four, Contract Software Engineer, Jan 2022 - Aug 2022
